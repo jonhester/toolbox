@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Toolbox' target in the 'Toolbox' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
